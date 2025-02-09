@@ -22,7 +22,7 @@ Installation Steps:
     If you haven't already, clone the project repository to your local machine using Git:
     Bash
 
-git clone https://github.com/tamoghnadev/dynamic_page
+git clone https://github.com/tamoghnadev/dynamic_view.git
 cd your_app_name
 
 Get dependencies:
